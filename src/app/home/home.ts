@@ -18,7 +18,7 @@ import {HousingService} from '../housing';
               alt="Garde Alpuerto logo"
               loading="lazy"
             />
-            <p class="hero-eyebrow">Garde • Alpuerto</p>
+            <p class="hero-eyebrow">Garde • Alpuertosssssssssss</p>
           </div>
           <h1>Shirts tailored for every moment.</h1>
           <p class="hero-subtitle">
@@ -167,3 +167,4 @@ export class Home {
     section?.scrollIntoView({behavior: 'smooth', block: 'start'});
   }
 }
+
